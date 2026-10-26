@@ -1,0 +1,26 @@
+{
+  "name": "iwork-file",
+  "version": "0.1.0",
+  "description": "Open, convert and edit Apple Pages, Numbers and Keynote files without a Mac: read them, convert to Word/Excel (live formulas)/PowerPoint, find-and-replace text, and edit Numbers cells.",
+  "author": {
+    "name": "rlawhddja1231-hash",
+    "url": "https://github.com/rlawhddja1231-hash"
+  },
+  "license": "MIT",
+  "keywords": [
+    "pages",
+    "numbers",
+    "keynote",
+    "iwork",
+    "mac",
+    "docx",
+    "xlsx",
+    "pptx",
+    "convert",
+    "find-and-replace"
+  ],
+  "displayName": "iWork Files (Pages / Numbers / Keynote)",
+  "homepage": "https://github.com/rlawhddja1231-hash/iwork-file",
+  "repository": "https://github.com/rlawhddja1231-hash/iwork-file",
+  "icon": "./.claude-plugin/icon.png"
+}

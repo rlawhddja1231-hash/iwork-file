@@ -1,0 +1,15 @@
+{
+  "name": "iwork-file",
+  "description": "Claude plugin for Apple iWork files (Pages, Numbers, Keynote)",
+  "owner": {
+    "name": "rlawhddja1231-hash"
+  },
+  "plugins": [
+    {
+      "name": "iwork-file",
+      "source": "./",
+      "description": "Open, convert and edit Pages, Numbers and Keynote files without a Mac",
+      "version": "0.1.0"
+    }
+  ]
+}
